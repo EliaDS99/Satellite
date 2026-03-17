@@ -1,4 +1,4 @@
-# Satellite Orbital Dynamics Modelization
+# Satellite Orbital Dynamics Modelization ![](https://img.shields.io/badge/-044F88?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Development Period: Apr 2024 - Jun 2024 (Original C), Mar 2026 (C++ Refactoring)
 Languages: C, C++ (C++17)
