@@ -9,7 +9,7 @@ constexpr double M_EARTH = 6e24;
 constexpr double L_PARAM = 1.0;
 constexpr double TIME_STEP = 0.01;
 constexpr double MIN_MASS = 5000.0;
-constexpr size_t RESERVE_CAPACITY = 1'000'000;
+constexpr size_t RESERVE_CAPACITY = 1000000;
 
 struct SystemState {
     double t, r, v, m, E;
